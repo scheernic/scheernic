@@ -1,16 +1,13 @@
-## Hi there 👋
+Boas boas-vindas ao meu perfil!🐢
 
-<!--
-**scheernic/scheernic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicolly Scheer.
 
-Here are some ideas to get you started:
+Estou consultando no Alura. 
+Estou desenvolvendo na linguagem JavaScript.
+Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫
+
+000011221996sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/2oIAVV7cn6IAAAAi/jumping-jump.gif)
